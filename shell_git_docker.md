@@ -19,29 +19,34 @@
 * curl, wget
 * terminal/ansi/vt100
 * tar, gzip, cpio
-* ssh
-    * -L -R
-    * ssh-keygen https://www.ssh.com/ssh/keygen/
-    * ftp, sftp, scp, rsync
+
+    
+### SSH
+* https://www.ssh.com/ssh/keygen/
+* https://www.ssh.com/ssh/tunneling/example
+* ftp, sftp, scp, rsync
 
 ### Network
 * nc
 * ping
 * nslookup
 ### byobu (tmux/screen)
-    * https://cheatography.com/mikemikk/cheat-sheets/byobu-keybindings/
+* https://cheatography.com/mikemikk/cheat-sheets/byobu-keybindings/
 
 
 ### vim
+* https://vim-adventures.com/ (free trial for first 2 levels)
+* https://vim.rtorr.com/ vim cheetsheet
+* http://www.vimgenius.com/ interactive tutorial
+* https://github.com/jmoon018/PacVim CLI vim game
 
 
 ### git
 * https://learngitbranching.js.org/
-* 
 * https://gitexercises.fracz.com/
-* 
+* https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
 
 ### docker
+* https://docs.docker.com/get-started/
 
-### SSH
 
